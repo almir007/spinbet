@@ -1,0 +1,9 @@
+{
+  "HR": { "name": "Croatia", "currency": "EUR", "countryCode": "HR", "phoneCode": "+385" },
+  "MT": { "name": "Malta", "currency": "EUR", "countryCode": "MT", "phoneCode": "+356" },
+  "BA": { "name": "Bosnia and Herzegovina", "currency": "EUR", "countryCode": "BA", "phoneCode": "+387" },
+  "NZ": { "name": "New Zealand", "currency": "NZD", "countryCode": "NZ", "phoneCode": "+64" },
+  "US": { "name": "United States", "currency": "USD", "countryCode": "US", "phoneCode": "+1" },
+  "CA": { "name": "Canada", "currency": "CAD", "countryCode": "CA", "phoneCode": "+1" },
+  "DZ": { "name": "Algeria", "currency": "USD", "countryCode": "DZ", "phoneCode": "+213" }
+}
